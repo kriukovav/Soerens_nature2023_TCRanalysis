@@ -1,0 +1,5 @@
+data/sra/*
+*.Rproj*
+SRRxxx.tsv
+outs/*
+filenames.txt
